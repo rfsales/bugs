@@ -45,7 +45,7 @@ CREATE TABLE `projects_issues` (
   `updated_at` datetime DEFAULT NULL,
   `closed_at` datetime DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;",
 
 
 "# Create Projects Issues Attachments Table
